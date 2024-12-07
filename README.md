@@ -1,5 +1,6 @@
 # vue3-migration-problem
-
+## Descrition
+Base vue-cli, base vue2 project, only upgrade npm vue2 to vue3
 ## Project setup
 ```
 npm install --legacy-peer-deps

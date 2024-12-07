@@ -9,6 +9,7 @@ function update() {
 
 <template>
   <div>
+    <div>commit id is:f0b18ea2e32f404f4f154080c56d1df346f7c3ea</div>
     <div>
       v-model of vue3 Syntax. Global compatibility mode is vue2, and disable
       `v-model` compatibility for Vue2， This v-model works well, but vue2
