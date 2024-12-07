@@ -7,7 +7,7 @@ Vue.config.productionTip = false;
 import { configureCompat } from "vue";
 // 禁用某些兼容性特性
 configureCompat({
-  COMPONENT_V_MODEL: true,
+  COMPONENT_V_MODEL: false,
 });
 new Vue({
   router,
