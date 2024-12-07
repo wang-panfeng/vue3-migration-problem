@@ -1,5 +1,7 @@
 # vue3-migration-problem
-
+##
+Project is based on vue-cli, vue2, and only upgrade vue2 to vue
+If have eslint error, try to set vsode CRLF or LF
 ## Project setup
 ```
 npm install --legacy-peer-deps
